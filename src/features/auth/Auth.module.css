@@ -1,0 +1,13 @@
+.auth__root {
+  font-family: serif;
+  color: dimgray;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5rem;
+}
+
+.auth__root span {
+  cursor: pointer;
+}

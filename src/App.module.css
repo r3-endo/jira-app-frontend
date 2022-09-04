@@ -1,0 +1,29 @@
+app__root {
+  text-align: center;
+  background-color: white;
+  color: dimgray;
+  font-family: serif;
+  margin: 5rem;
+}
+
+.app__iconLogout {
+  background-color: transparent;
+  color: dimgray;
+  margin-top: .5rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.app__btn {
+  background-color: transparent;
+  padding-top: .2rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.app__logout {
+  margin-top: 2rem;
+  display: flex;
+}
